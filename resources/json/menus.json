@@ -1,0 +1,28 @@
+{
+    "Menu_Principal": [
+        "Saldo",
+        "Saque",
+        "Deposito",
+        "Transferencia"
+    ],
+    "Saldo": [
+        "Conta Corrente",
+        "Conta Poupanca"
+    ],
+    "Saque": [
+        "Conta Corrente",
+        "Conta Poupanca"
+    ],
+    "Deposito": [
+        "Conta Corrente",
+        "Conta Poupanca"
+    ],
+    "Transferencia": [
+        "Conta Corrente",
+        "Conta Poupança"
+    ],
+    "retornar": [
+        "Sim",
+        "Nao"
+    ]
+}

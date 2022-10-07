@@ -1,0 +1,16 @@
+{
+    "victor": {
+        "user_name": "victor",
+        "password": "123456",
+        "auth": "1234",
+        "corrente": 1000,
+        "poupanca": 1000
+    },
+    "admin": {
+        "user_name": "admin",
+        "password": "654321",
+        "auth": "0000",
+        "corrente": 1000,
+        "poupanca": 1000
+    }
+}
